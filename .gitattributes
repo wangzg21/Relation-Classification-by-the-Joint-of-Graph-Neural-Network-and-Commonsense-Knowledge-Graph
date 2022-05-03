@@ -1,1 +1,1 @@
-DGNN.zip filter=lfs diff=lfs merge=lfs -text
+README.txt filter=lfs diff=lfs merge=lfs -text
