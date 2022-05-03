@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae49911a096d444702009f5c6549fa08555150cfb2b133c32372fa1d63bd487b
-size 266
+There are semeval dataset and wiki80 dataset in the "datasets" file.
+The file "perporc" contains the processing method of the wiki80 dataset and the related knowledge graph construction strategy.
+The document "DGNN" is the relation extraction model proposed by us.
